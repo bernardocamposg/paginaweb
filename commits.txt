@@ -1,0 +1,12 @@
+commit e25e932218ae30a1c3fbdd0f5b6d2f98aa7e2eb7
+Author: Bernardo Adolfo <bernardoguajardo98@hotmail.com>
+Date:   Sun Nov 5 11:15:20 2017 -0600
+
+    Primeros archivos modificado
+
+
+commit 8a63febcb86b4a3bab5ac81f489e8b639d0dea70
+Author: Bernardo Adolfo <bernardoguajardo98@hotmail.com>
+Date:   Sun Nov 5 11:10:53 2017 -0600
+
+    Primeros archivos
